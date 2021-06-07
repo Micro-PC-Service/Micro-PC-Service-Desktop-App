@@ -7,3 +7,10 @@ This program Is distributed In the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/
 
 Web:https://micropcservice.us/
+
+For Latest Updates Check Our Social Media.
+Facebook: https://www.facebook.com/micropcservice.us
+Twitter: https://twitter.com/micropcservice
+Instagram: https://www.instagram.com/micropcservice/
+Linkdin: https://www.linkedin.com/company/micropcservice
+Tumbler: https://micropcservice.tumblr.com/
